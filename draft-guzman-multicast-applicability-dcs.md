@@ -18,7 +18,8 @@ venue:
   group: PIM
   type: Working Group
   mail: pim@ietf.org
-
+  github: https://github.com/david-a-guzman/draft-guzman-multicast-applicability-dcs
+  latest: https://example.com/LATEST
 author:
 - name: David Guzman
   organization: Technical University of Munich
