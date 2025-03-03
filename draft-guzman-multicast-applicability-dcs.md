@@ -45,7 +45,7 @@ normative:
     date: August 2006
     target: https://www.rfc-editor.org/info/rfc4601
     title: '{Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol Specification (Revised)}'
-  
+
 informative:
   rfc3569:
     author:
@@ -62,7 +62,7 @@ informative:
       name: P. Zwierzykowski
     date: '2012'
     target: https://doi.org/10.1109/CSNDSP.2012.6292693
-    title: Performance evaluation of Source-Specific Multicast routing protocols for IP networks 
+    title: Performance evaluation of Source-Specific Multicast routing protocols for IP networks
   Farinacci2024:
       author:
       - ins: D. Farinacci
