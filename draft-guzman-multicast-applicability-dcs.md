@@ -3,7 +3,7 @@ title: "Multicast Applicability  for Distributed Consensus Systems"
 abbrev: "mcast4dcs - Abbreviation"
 category: info
 
-docname: draft-guzman-multicast-applicability-dcs-latest
+docname: draft-guzman-multicast-applicability-dcs
 submissiontype: "independent"
 number:
 date:
