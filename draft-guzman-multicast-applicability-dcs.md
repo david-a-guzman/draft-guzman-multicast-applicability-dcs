@@ -8,16 +8,12 @@ submissiontype: "independent"
 number:
 date:
 consensus: false
-v: 3
-# area: Network
-# workgroup: Network Working Group
+v: 1
 keyword:
  - multicast
  - distributed consensus
 venue:
-#  group: PIM
-#  type: Working Group
-#  mail: pim@ietf.org
+
   github: "david-a-guzman/draft-guzman-multicast-applicability-dcs"
   latest: "https://david-a-guzman.github.io/draft-guzman-multicast-applicability-dcs/draft-guzman-multicast-applicability-dcs.html"
 author:
