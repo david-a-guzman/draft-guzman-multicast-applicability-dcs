@@ -30,14 +30,19 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   Status information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-guzman-multicast-
+   The latest revision of this draft can be found at
+   https://example.com/LATEST.  Status information for this document may
+   be found at https://datatracker.ietf.org/doc/draft-guzman-multicast-
    applicability/.
 
    Discussion of this document takes place on the PIM Working Group
    mailing list (mailto:pim@ietf.org), which is archived at
    https://mailarchive.ietf.org/arch/browse/pim/.  Subscribe at
    https://www.ietf.org/mailman/listinfo/pim/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/https://github.com/david-a-guzman/draft-guzman-
+   multicast-applicability-dcs.
 
 Status of This Memo
 
