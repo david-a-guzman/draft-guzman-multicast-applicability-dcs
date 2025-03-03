@@ -3,23 +3,23 @@ title: "Multicast Applicability  for Distributed Consensus Systems"
 abbrev: "mcast4dcs - Abbreviation"
 category: info
 
-docname: draft-guzman-multicast-applicability-dcs
+docname: draft-guzman-multicast-applicability-dcs-latest
 submissiontype: "independent" # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: false
 v: 3
-area: Network
-workgroup: Network Working Group
+# area: Network
+# workgroup: Network Working Group
 keyword:
  - multicast
  - distributed consensus
 venue:
-  group: PIM
-  type: Working Group
-  mail: pim@ietf.org
-  github: https://github.com/david-a-guzman/draft-guzman-multicast-applicability-dcs
-  latest: https://example.com/LATEST
+#  group: PIM
+#  type: Working Group
+#  mail: pim@ietf.org
+  github: "david-a-guzman/draft-guzman-multicast-applicability-dcs"
+  latest: "https://david-a-guzman.github.io/draft-guzman-multicast-applicability-dcs/draft-guzman-multicast-applicability-dcs.html"
 author:
 - name: David Guzman
   organization: Technical University of Munich
