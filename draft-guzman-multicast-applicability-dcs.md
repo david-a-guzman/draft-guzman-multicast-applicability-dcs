@@ -255,7 +255,7 @@ Control Plane Overhead:  Peers establish a relation with a minimum of 2712 and 1
 
 Data Plane Overhead: An extended exponential (growth) model captures the data duplication of iterative diffusion. The findings for the randomized selection of peers in {{Guzman2024b}} (Figure 4) derive the likelihood for state duplication. Parametrizing this model results in the observation that multicast-based replication requires 22.44 MB less traffic per state dissemination of 256 bytes (e.g., a transaction).
 
-Consensus Latency: The exponential and the randomized peer selection model (as before) characterized the iterative diffusion, and the three-stage latency model captured the multicast diffusion. Measurements and the key insight of peer concentration in ten well-known infrastructures {{Guzman2024c}} parametrize both models. The last (detailed in {{Guzman2024b}}) is to conclude that multicast-based consensus is at least 4x faster than iterative diffusion.
+Consensus Latency: The exponential and the randomized peer selection model (as before) characterized the iterative diffusion, and the three-stage latency model captured the multicast diffusion. Measurements and the key insight of peer concentration in ten well-known infrastructures {{Guzman2024c}} parametrize both models. The last (detailed in {{Guzman2024b}}) is to conclude that multicast-based consensus is at least 4x faster than iterative (diffusion) consensus.
 
 Consensus Finality: In multicast-based replication, the commitment to a shared state is part of the control plane.
 
