@@ -4,7 +4,7 @@ abbrev: "mcast4dcs - Abbreviation"
 category: info
 
 docname: draft-guzman-multicast-applicability-dcs-latest
-submissiontype: "independent" # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: "independent"
 number:
 date:
 consensus: false
