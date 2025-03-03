@@ -4,7 +4,7 @@ abbrev: "mcast4dcs - Abbreviation"
 category: info
 
 docname: draft-guzman-multicast-applicability-dcs
-submissiontype: "independent"  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: "independent" # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: false
@@ -171,7 +171,7 @@ informative:
     date: may 1990
     title: Multicast Routing in Datagram Internetworks and Extended LANs
   Nakamoto2008:
-    author: 
+    author:
     - ins: Nakamoto
       name: Satoshi Nakamoto
     date: '2008'
@@ -183,7 +183,7 @@ informative:
       name: John Von Newman
     date: '1956'
     title: Probabilistic Logics and the Synthesis of Reliable Organism from Unreliable Components
-    
+
 --- abstract
 
 This document questions the applicability of a multicast semantic for the distributed consensus problem. For this, it details the consensus problem and the solutions taken in current systems. It outlines how point-to-multipoint communication arises as part of the consensus solution. Then, it details a peer-centric realization of a permissionless approach, identifying key issues. These issues include communication costs, performance delays, and lack of finality. Hence, it discusses a multicast strawman and its expected improvements.
@@ -236,7 +236,7 @@ Disseminating a state results in many stages. Pool establishment, replenishment,
 
 In iterative diffusion, those (many) disseminating stages are unknown. Therefore, peers cannot assess when dissemination terminates. As a result, peers cannot judge the finality of consensus.
 
-# How may Multicast improve on the Peer-centric Issues? 
+# How may Multicast improve on the Peer-centric Issues?
 
 Control Plane Overhead: Dedicated State Replication Points (SRPs) reduce the number of bytes establishing and maintaining end-to-end relations. SRPs placed in clusters of peers establish and maintain peer-to-SRP and SRP-to-SRP relations. SRP-to-SRP is an inter-domain (multipoint) unicast relation, and peer-to-SRP is an intra-domain multicast {{Deering1990}}. Hence, a peer sets and keeps a single relation instead of a pool of peers.
 
