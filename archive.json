@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-11-11T01:58:58.508144+00:00",
+  "timestamp": "2025-11-13T01:59:47.088538+00:00",
   "repo": "david-a-guzman/draft-guzman-multicast-applicability-dcs",
   "labels": [
     {
@@ -49,6 +49,23 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOOCmfm87XX-jd",
+      "title": "citation spelling error",
+      "url": "https://github.com/david-a-guzman/draft-guzman-multicast-applicability-dcs/issues/1",
+      "state": "OPEN",
+      "author": "gregbo",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Please change \"VonNewman\" to \"von Neumann\".",
+      "createdAt": "2025-11-11T18:19:07Z",
+      "updatedAt": "2025-11-11T18:19:07Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
